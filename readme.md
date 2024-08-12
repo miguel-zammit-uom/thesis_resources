@@ -1,11 +1,12 @@
 Machine Learning Applications in Exoplanet Host Star Recommendation & Determination: Thesis Resources
 
-TODO: ADD THE FOLLOWING FILES
+This repository contains all the necessary supplementary resources for my thesis. The trained ML models are not available here due to space constraints, but can be made available upon reasonable request.
 
-  CHAP 3
-    - DATASETS OBSERVATION LISTS
-    - MODELS
+Chapter 3: Spectral Classifier Validation Run Resources
+    - Observation ID List for dataset
+    - Target Labels
 
+  
   CHAP 4
     - DATASETS OBSERVATION LISTS
     - MODELS
