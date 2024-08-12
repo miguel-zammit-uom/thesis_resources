@@ -10,8 +10,7 @@ from tqdm import tqdm
 import pandas as pd
 
 
-# DISCLAIMER: This code is heavily based on the tutorial provided for programmatic access 
-# on the ESO Science Archive Facility
+# This code is heavily based on the tutorial provided for programmatic access on the ESO Science Archive Facility
 user_credentials = {
     'username': # Enter your ESO Username,
     'password': # Enter your ESO Password
